@@ -1,5 +1,5 @@
 # myroom
-# In this project we will draw 2D and 3D graphics using opengl library.
+## In this project we will draw 2D and 3D graphics using opengl library.
 # Our project is a graphic design of room of desk with computer , chair , bookshelf , lamp, watch, cup coffee, etc.
 # Components used in drawing our project (5 components): polygon, circle, trianglefun, lines, quads.
 # Transformations used: position transformation  of the watch, and rotate clockwise.
